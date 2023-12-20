@@ -1,0 +1,20 @@
+style.css
+
+body{
+    background-color: red;
+    display: flex;
+text-align: center;
+}
+h1{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    background-color: green;
+    display:inline-block;
+    display:flex;
+    text-decoration: dotted;
+}
+title{
+    text-decoration: double color(srgb red #801a00 #e63333);
+}
