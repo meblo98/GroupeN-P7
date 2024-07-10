@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+    display: flex;
+text-align: center;
+}
+h1{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+p{
+    background-color: rgb(203, 127, 14);
+    display:inline-block;
+    display:flex;
+    text-decoration: dotted;
+}

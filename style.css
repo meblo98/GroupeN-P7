@@ -1,4 +1,5 @@
 
+
 body{
     background-color: red;
     display: flex;
@@ -16,4 +17,29 @@ p{
 }
 title{
     text-decoration: double color(srgb red #801a00 #e63333);
+
+body {
+    background: white;
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+}
+
+.principale {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flexbox;
+    width: 500px;
+}
+
+.par {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+
 }
